@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: student_perf
+Version: 0.0.1
+Author: Shaaz
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: requires-dist
