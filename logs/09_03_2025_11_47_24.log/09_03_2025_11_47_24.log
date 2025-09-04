@@ -1,0 +1,8 @@
+[ 2025-09-03 11:47:26,581 ] 27 root - INFO - Entered the data ingestion method or component
+[ 2025-09-03 11:47:26,585 ] 30 root - INFO - Read the dataset as dataframe
+[ 2025-09-03 11:47:26,591 ] 36 root - INFO - Saved the raw dataframe
+[ 2025-09-03 11:47:26,596 ] 43 root - INFO - Ingestion of the data is completed
+[ 2025-09-03 11:47:26,596 ] 73 root - INFO - Read train and test data completed
+[ 2025-09-03 11:47:26,596 ] 35 root - INFO - Data transformation configuration is set up
+[ 2025-09-03 11:47:26,596 ] 53 root - INFO - Data transformation pipelines are set up
+[ 2025-09-03 11:47:26,596 ] 86 root - INFO - Split train and test data into features and target

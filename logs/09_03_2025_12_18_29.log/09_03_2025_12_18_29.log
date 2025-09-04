@@ -1,0 +1,11 @@
+[ 2025-09-03 12:18:33,683 ] 27 root - INFO - Entered the data ingestion method or component
+[ 2025-09-03 12:18:33,694 ] 30 root - INFO - Read the dataset as dataframe
+[ 2025-09-03 12:18:33,713 ] 36 root - INFO - Saved the raw dataframe
+[ 2025-09-03 12:18:33,746 ] 43 root - INFO - Ingestion of the data is completed
+[ 2025-09-03 12:18:33,765 ] 73 root - INFO - Read train and test data completed
+[ 2025-09-03 12:18:33,765 ] 35 root - INFO - Data transformation configuration is set up
+[ 2025-09-03 12:18:33,765 ] 53 root - INFO - Data transformation pipelines are set up
+[ 2025-09-03 12:18:33,769 ] 86 root - INFO - Split train and test data into features and target
+[ 2025-09-03 12:18:33,824 ] 96 root - INFO - Data transformation completed
+[ 2025-09-03 12:18:33,828 ] 32 root - INFO - Splitting training and test input data
+[ 2025-09-03 12:18:47,734 ] 64 root - INFO - Best model found: LinearRegression with score: 0.8804332983749564
